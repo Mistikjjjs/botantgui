@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Un bot de WhatsApp utilizando Baileys",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["whatsapp", "bot", "baileys"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
